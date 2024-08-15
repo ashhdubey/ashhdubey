@@ -5,7 +5,7 @@
 
 - 👨‍💻 Full-Stack Developer based in Prayagraj, India.
 - 📫 How to reach me: [ashishdubey.work@gmail.com](ashishdubey.work@gmail.com)
-- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://https://ashhhdubey.github.io/CodSoft-Portfolio/)! 💻❤️
+- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://ashhhdubey.github.io/CodSoft-Portfolio/) 💻❤️
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
