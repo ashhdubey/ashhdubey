@@ -3,7 +3,7 @@
 
 
 
- -👨‍💻 Full-Stack Developer based in Prayagraj, India.<br>- 📫 How to reach me: [ashishdubey.work@gmail.com](ashishdubey.work@gmail.com)<br>- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://ashhhdubey.github.io/CodSoft-Portfolio/) 💻❤️<br>-🌱 I’m currently learning Java<br>-⚡ Fun fact pursuing BCA 
+ -👨‍💻 Full-Stack Developer based in Prayagraj, India.<br>- 📫 How to reach me: [ashishdubey.work@gmail.com](ashishdubey.work@gmail.com)<br>- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://ashhdubey.github.io/Portfolio/) 💻❤️<br>-🌱 I’m currently learning Java<br>-⚡ Fun fact pursuing BCA 
 
 
 ## 🌐 Socials:
