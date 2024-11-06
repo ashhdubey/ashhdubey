@@ -17,7 +17,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quot
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
