@@ -6,7 +6,7 @@
  -👨‍💻 Full-Stack Developer based in Prayagraj, India.<br>- 📫 How to reach me: ashishdubey.work@gmail.com <br>- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://ashhdubey.netlify.app) 💻❤️<br>-🌱 I’m currently learning Java<br>-⚡ Fun fact pursuing BCA 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashhdubey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashhdubey) 
 
 
