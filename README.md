@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Kumar Dube</h1>
+<h1 align="center">Hi 👋, I'm Ashish Kumar Dubey</h1>
 <h3 align="center">A passionate Emerging developer </h3>
 
 
@@ -6,8 +6,8 @@
  -👨‍💻 Aspiring Java Full-Stack Developer based in Prayagraj, India.<br>- 📫 How to reach me: ashishdubey.work@gmail.com <br>- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://ashhdubey.netlify.app) 💻❤️<br>-🌱 I’m currently learning Java<br>
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 
