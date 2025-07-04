@@ -3,7 +3,7 @@
 
 
 
- -👨‍💻 Aspiring Java Full-Stack Developer based in Prayagraj, India.<br>- 📫 How to reach me: ashishdubey.work@gmail.com <br>- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://ashhdubey.netlify.app) 💻❤️<br>-🌱 I’m currently learning Java<br>
+ -👨‍💻 Aspiring Java Full-Stack Developer based in Prayagraj, India.<br>- 📫 How to reach me: ashishdubey.work@gmail.com <br>- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://ashhdubey.netlify.app) 💻❤️<br>-🌱 I’m currently learning Backend in Java<br>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
