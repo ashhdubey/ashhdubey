@@ -1,20 +1,52 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Dubey</h1>
-<h3 align="center">A passionate Emerging developer </h3>
+<h3 align="center">A Passionate Java Full Stack Developer | Backend Focused</h3>
 
+---
 
+### 🧠 About Me
 
- -👨‍💻 Aspiring Java Full-Stack Developer based in Prayagraj, India.<br>- 📫 How to reach me: ashishdubey.work@gmail.com <br>- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://ashhdubey.netlify.app) 💻❤️<br>-🌱 I’m currently learning Backend in Jav<br>
+🎓 BCA Student from Prayagraj, India  
+💻 Backend enthusiast with a love for Java, Spring Boot & MySQL  
+🚀 Constantly learning, building, and refining real-world applications  
+🎯 Focused on writing clean code, scalable logic, and meaningful software  
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+---
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashhdubey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashhdubey) 
+### ⚒️ Tech Stack
 
+**Languages**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 
+**Backend & Database**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
 
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
+**Tools & Platforms**  
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
+---
+
+### 📫 Connect with Me
+
+📧 [ashishdubey.work@gmail.com](mailto:ashishdubey.work@gmail.com)  
+🌐 [ashhdubey.netlify.app](https://ashhdubey.netlify.app)  
+💼 [linkedin.com/in/ashhdubey](https://linkedin.com/in/ashhdubey)  
+📷 [@ashhdubey](https://instagram.com/ashhdubey)
+
+---
+
+<h4 align="center">"Backend isn't just about code, it's about logic, structure, and impact."</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashhdubey&style=flat-square&color=blue" alt="Profile Views" />
+</p>
