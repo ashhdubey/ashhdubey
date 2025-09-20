@@ -6,7 +6,7 @@
 ### 🧠 About Me
 
 🎓 BCA Student from Prayagraj, India  
-💻 Backend enthusiast with a love for Java, Spring Boot & MySQL  
+💻 Backend enthusiast with a love for Java, Spring Boot & DataBases 
 🚀 Constantly learning, building, and refining real-world applications  
 🎯 Focused on writing clean code, scalable logic, and meaningful software  
 
