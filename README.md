@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Dubey</h1>
-<h3 align="center">A Passionate Java Full Stack Developer | Backend Focused</h3>
+<h3 align="center">A Passionate Java Full Stack Developer | Backend Focused </h3>
 
 ---
 
